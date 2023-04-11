@@ -14,13 +14,13 @@ A Flutter project.
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/5td8VNYg/Screenshot-2023-04-10-10-05-11-880-com-example-globalnews.jpg" alt="project-screenshot" width="150" height="100/">
+<img src="https://i.postimg.cc/5td8VNYg/Screenshot-2023-04-10-10-05-11-880-com-example-globalnews.jpg" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.postimg.cc/rFs1GH21/Screenshot-2023-04-10-10-04-21-183-com-example-globalnews.jpg" alt="project-screenshot" width="150" height="100/">
+<img src="https://i.postimg.cc/rFs1GH21/Screenshot-2023-04-10-10-04-21-183-com-example-globalnews.jpg" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.postimg.cc/nhQqgQzM/Screenshot-2023-04-10-10-04-42-092-com-example-globalnews.jpg" alt="project-screenshot" width="150" height="150/">
+<img src="https://i.postimg.cc/nhQqgQzM/Screenshot-2023-04-10-10-04-42-092-com-example-globalnews.jpg" alt="project-screenshot" width="300" height="300/">
 
-<img src="https://i.postimg.cc/FKy3s504/Screenshot-2023-04-10-10-05-01-503-com-example-globalnews.jpg" alt="project-screenshot" width="150" height="150/">
+<img src="https://i.postimg.cc/FKy3s504/Screenshot-2023-04-10-10-05-01-503-com-example-globalnews.jpg" alt="project-screenshot" width="300" height="300/">
 
   
   
